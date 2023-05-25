@@ -51,7 +51,7 @@ Enjoy learning new business domains, building software, growing businesses and d
 
 <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=sehgal10&show_icons=true&locale=en" alt="sehgal10" />
 
-<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehgal10&show_icons=true&locale=en&layout=compact" alt="sehgal10" />
+<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehgal10&show_icons=true&locale=en" alt="sehgal10" />
 <br>
   
   
