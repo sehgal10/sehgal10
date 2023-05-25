@@ -10,8 +10,10 @@ I'm a Senior Technology Executive, with 9+ years of experience in software, prod
 Enjoy learning new business domains, building software, growing businesses and driving successful transformations.
 </h4>
 
-
+<br>
+<br>
 <h4>Current Skillset</h4>
+ <img height="300" width="400" align="right" alt="GIF" src="https://github.com/sehgal10/sehgal10/assets/7620790/584bc470-6496-4532-8151-e9ad4edf58a1" width="120" height="120" />
 
 ➤ Java EE • Java FX Servlets / JSP /J2EE • Java Server Faces (JSF)<br>
 ➤ Spring Boot• Spring MVC • Spring cloud • Spring Data • Spring Security Spring Data REST • Spring OAuth<br>
@@ -23,7 +25,10 @@ Enjoy learning new business domains, building software, growing businesses and d
 ➤ Agile: Jira, Azure, Gitlab<br>
 ➤ XML Signing and parsing<br>
 ➤ Test-driven development (unit testing and integration testing)<br>
+
+
 <br>
+
 
 
 <!--
@@ -49,9 +54,9 @@ Enjoy learning new business domains, building software, growing businesses and d
 
 <br><br>
 
-<img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=sehgal10&show_icons=true&locale=en" alt="sehgal10" />
+<!-- <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=sehgal10&show_icons=true&locale=en" alt="sehgal10" /> -->
 
-<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehgal10&show_icons=true&layout=compact" alt="sehgal10" />
+<img align="left" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehgal10&show_icons=true&layout=compact" alt="sehgal10" />
 <br>
   
   
