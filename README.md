@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi there, I'm Sukhwinder Singh Sehgal </h3>
-<h4 align="center">A Passionate and Self-Taught Full Stack Developer From India <img height="20" src="https://github.com/sehgal10/sehgal10/assets/7620790/f97861a1-9299-4e2f-a920-43f236ae3530">
+<h4 align="center">A Passionate and Self-Taught Full Stack Developer From India <img height="30" style="-webkit-transform:rotate(-15deg)" src="https://github.com/sehgal10/sehgal10/assets/7620790/c95aa934-257c-44da-a02d-3b039858a75a">
 
 
 <br>
