@@ -15,19 +15,19 @@ Enjoy learning new business domains, building software, growing businesses and d
 <h4>Current Skillset</h4>
  <img height="300" width="400" align="right" alt="GIF" src="https://github.com/sehgal10/sehgal10/assets/7620790/584bc470-6496-4532-8151-e9ad4edf58a1" width="120" height="120" />
 
-➤ Q&A chatbots with Langchain (GPT-4 along with RAG, custom tools and agents)
-➤ Multi-agents development using LangGraph, CrewAI and Autogen
-➤ Integration of different LLMs APIs in backend (OpenAI based GPT-4/GPT-4o models, Claude3 models, LLama3 models, Mistral models, Google Gemini models, Groq models along with Langsmith evaluation)
-➤ Fine-tuning open source models like Mistral-7b and LLAMA2-GGUF, PEFT (LoRA, QLoRA)
-➤ Integration of Vector Databases like Pinecone, ChromaDB, Milvus, Qdrant, Weaviate, Azure Search
-➤ LLM deployments with Amazon Bedrock, Amazon Sagemaker, Amazon EC2, and LangServe
-➤ Backend integration of LLMs with FastAPI, Streamlit, Flask and Django
-➤ Integration of LLMs with different databases like Airtable, PostgreSQL, MsSQL, MySQL, SQLite
-➤ Sentiment analysis/text summarization/text classification using LLM models.
-➤ Audio analysis/transcription. Text-to-Speech (TTS) and Speech-to-text (STT) generation.
-➤ Deep Learning : TensorFlow, Keras, PyTorch, FastAI, OpenCV, HuggingFace, Transformers, BERT, GPT-3, GPT-3.5, Whisper, LLaMA 2, Alpaca
-➤ Forex price forecasting bots
-➤ Cloud Proficiency- Google cloud platform, Vertex AI, AWS EC2 , Sagemaker
+➤ Q&A chatbots with Langchain (GPT-4 along with RAG, custom tools and agents)<br>
+➤ Multi-agents development using LangGraph, CrewAI and Autogen<br>
+➤ Integration of different LLMs APIs in backend (OpenAI based GPT-4/GPT-4o models, Claude3 models, LLama3 models, Mistral models, Google Gemini models, Groq models along with Langsmith evaluation)<br>
+➤ Fine-tuning open source models like Mistral-7b and LLAMA2-GGUF, PEFT (LoRA, QLoRA)<br>
+➤ Integration of Vector Databases like Pinecone, ChromaDB, Milvus, Qdrant, Weaviate, Azure Search<br>
+➤ LLM deployments with Amazon Bedrock, Amazon Sagemaker, Amazon EC2, and LangServe<br>
+➤ Backend integration of LLMs with FastAPI, Streamlit, Flask and Django<br>
+➤ Integration of LLMs with different databases like Airtable, PostgreSQL, MsSQL, MySQL, SQLite<br>
+➤ Sentiment analysis/text summarization/text classification using LLM models.<br>
+➤ Audio analysis/transcription. Text-to-Speech (TTS) and Speech-to-text (STT) generation.<br>
+➤ Deep Learning : TensorFlow, Keras, PyTorch, FastAI, OpenCV, HuggingFace, Transformers, BERT, GPT-3, GPT-3.5, Whisper, LLaMA 2, Alpaca<br>
+➤ Forex price forecasting bots<br>
+➤ Cloud Proficiency- Google cloud platform, Vertex AI, AWS EC2 , Sagemaker<br>
 
 
 <br>
