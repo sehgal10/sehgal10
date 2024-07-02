@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi there, I'm Sukhwinder Singh Sehgal </h3>
-<h4 align="center">A Passionate and Self-Taught Developer From India <img height="30" style="-webkit-transform:rotate(-15deg)" src="https://github.com/sehgal10/sehgal10/assets/7620790/c95aa934-257c-44da-a02d-3b039858a75a">
+<h4 align="center">A Passionate AI Developer From India <img height="30" style="-webkit-transform:rotate(-15deg)" src="https://github.com/sehgal10/sehgal10/assets/7620790/c95aa934-257c-44da-a02d-3b039858a75a">
 
 
 <br>
@@ -20,12 +20,11 @@ Enjoy learning new business domains, building software, growing businesses and d
 ➤ Integration of different LLMs APIs in backend (OpenAI based GPT-4/GPT-4o models, Claude3 models, LLama3 models, Mistral models, Google Gemini models, Groq models along with Langsmith evaluation)<br>
 ➤ Fine-tuning open source models like Mistral-7b and LLAMA2-GGUF, PEFT (LoRA, QLoRA)<br>
 ➤ Integration of Vector Databases like Pinecone, ChromaDB, Milvus, Qdrant, Weaviate, Azure Search<br>
-➤ LLM deployments with Amazon Bedrock, Amazon Sagemaker, Amazon EC2, and LangServe<br>
+➤ LLM deployments with Huggingface, Amazon Bedrock, Amazon Sagemaker, Amazon EC2, and LangServe<br>
 ➤ Backend integration of LLMs with FastAPI, Streamlit, Flask and Django<br>
 ➤ Integration of LLMs with different databases like Airtable, PostgreSQL, MsSQL, MySQL, SQLite<br>
 ➤ Sentiment analysis/text summarization/text classification using LLM models.<br>
 ➤ Audio analysis/transcription. Text-to-Speech (TTS) and Speech-to-text (STT) generation.<br>
-➤ Deep Learning : TensorFlow, Keras, PyTorch, FastAI, OpenCV, HuggingFace, Transformers, BERT, GPT-3, GPT-3.5, Whisper, LLaMA 2, Alpaca<br>
 ➤ Forex price forecasting bots<br>
 ➤ Cloud Proficiency- Google cloud platform, Vertex AI, AWS EC2 , Sagemaker<br>
 
